@@ -44,8 +44,8 @@ Double click the PlayerController file and type the coding
 
 ## Program:
 ```
-Developed by: M.Vidya Neela
-Register Number: 212221230120
+Developed by: Gunaseelan G
+Register Number: 212221230031
 ```
 ```
 using System.Collections;
